@@ -1,0 +1,7 @@
+<config>
+    <packet-scan>pojo</packet-scan>
+    <bean id="cat" class="pojo.Cat">
+        <property name="name">哆啦A梦</property>
+        <property name="hobby">铜锣烧</property>
+    </bean>
+</config>

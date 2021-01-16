@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reader" />
+        <module name="csv" />
+        <module name="ch011" />
+        <module name="ch010" />
+        <module name="ch004" />
+        <module name="ch003" />
+        <module name="ch002" />
+        <module name="ch013" />
+        <module name="ch001" />
+        <module name="ch012" />
+        <module name="ch008" />
+        <module name="ch007" />
+        <module name="ch006" />
+        <module name="ch009" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
